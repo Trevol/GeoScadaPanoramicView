@@ -1,0 +1,6 @@
+Создание/просмотр панорам
+
+google krpano
+google krpano.js
+https://krpano.com/news/
+https://krpano.com/examples/
