@@ -4,3 +4,6 @@ google krpano
 google krpano.js
 https://krpano.com/news/
 https://krpano.com/examples/
+
+https://everpano.com/
+https://www.airpano.com/
