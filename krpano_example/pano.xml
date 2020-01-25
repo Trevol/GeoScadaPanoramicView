@@ -1,16 +1,8 @@
 <krpano debugmode="true">
-<!--	<preview url="panos/timothy-oldfield.jpg" />-->
+    <image type="SPHERE">
+        <sphere url="panos/testpano.jpg"/>
+    </image>
 
-<!--	<image hfov="156.00" vfov="47.058530" voffset="8.97">-->
-<!--		<sphere url="panos/timothy-oldfield.jpg"/>-->
-<!--	</image>-->
-
-	<image type="SPHERE">
-		<sphere url="panos/testpano.jpg"/>
-	</image>
-
-	<view fovtype="VFOV" fov="30" maxpixelzoom="2.0" />
-
-<!--	<control zoomtocursor="true" />-->
+    <view fovtype="VFOV" fov="30" maxpixelzoom="2.0"/>
 
 </krpano>
