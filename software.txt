@@ -4,6 +4,7 @@ google krpano
 google krpano.js
 https://krpano.com/news/
 https://krpano.com/examples/
+http://www.panoramann.de/krpano/krpano_tutorial.html Nice tutorial
 
 https://everpano.com/
 https://www.airpano.com/

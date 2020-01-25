@@ -1,0 +1,5 @@
+# start simple http server in current directory
+python3 -m http.server
+
+# open in browser
+http://localhost:8000/?xml=pano.xml
