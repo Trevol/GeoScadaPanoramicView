@@ -1,4 +1,4 @@
-Создание/просмотр панорам
+## Создание/просмотр панорам
 
 google krpano
 google krpano.js
@@ -8,3 +8,13 @@ http://www.panoramann.de/krpano/krpano_tutorial.html Nice tutorial
 
 https://everpano.com/
 https://www.airpano.com/
+
+
+##Photogrammetry/3D
+https://github.com/alicevision/meshroom
+https://alicevision.org/
+http://www.mmgtools.org/   Mmg is an open source software for simplicial remeshing
+https://github.com/MmgTools/mmg
+
+https://sketchfab.com/
+
