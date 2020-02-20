@@ -1,3 +1,11 @@
+## LIDARS
 https://www.dronezon.com/learn-about-drones-quadcopters/best-lidar-sensors-for-drones-great-uses-for-lidar-sensors/
 https://leddartech.com/lidar/leddarone/
 https://leddartech.com/where-to-buy/#leddarone/
+https://www.youtube.com/watch?v=VhbFbxyOI1k    Getting Started with LIDAR
+
+
+## laser range sensor
+google "laser range sensor"
+"distance measurer"
+https://www.youtube.com/watch?v=pUF8pmprF1Y   How to use ToF10120 + Arduino to measure distance using LASER Rangefinder
