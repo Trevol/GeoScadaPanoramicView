@@ -1,0 +1,3 @@
+https://github.com/Trevol/locating-objects-without-bboxes   Locating Objects Without Bounding Boxes
+http://openaccess.thecvf.com/content_CVPR_2019/html/Ribera_Locating_Objects_Without_Bounding_Boxes_CVPR_2019_paper.html
+http://openaccess.thecvf.com/content_CVPR_2019/papers/Ribera_Locating_Objects_Without_Bounding_Boxes_CVPR_2019_paper.pdf
