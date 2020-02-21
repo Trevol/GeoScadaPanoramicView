@@ -1,0 +1,9 @@
+google "rtk gps arduino"
+
+https://learn.sparkfun.com/tutorials/gps-rtk-hookup-guide/all
+https://www.sparkfun.com/products/15005   SparkFun GPS-RTK Board - NEO-M8P-2 (Qwiic)
+
+google "gps rtk 2"
+https://www.sparkfun.com/products/15136   SparkFun GPS-RTK2 Board - ZED-F9P (Qwiic)
+https://learn.sparkfun.com/tutorials/gps-rtk2-hookup-guide/all   GPS-RTK2 Hookup Guide
+https://www.sparkfun.com/products/15192   GNSS Multi-Band Magnetic Mount Antenna - 5m (SMA)
