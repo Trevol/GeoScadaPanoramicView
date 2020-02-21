@@ -2,3 +2,16 @@ https://forum.dji.com/thread-185384-1-1.html
 https://www.amazon.com/Mavic-Remote-Controller-Compatible-Enterprise/dp/B07QFFZHJ4
 
 google "smart controller Google Service"
+https://www.certifiedaerials.com/info/how-to-install-google-play-store-on-dji-smart-controller
+https://www.youtube.com/watch?v=B_swJvznW68    Installing Google Play Store on DJI Smart Controller without Root Step-by-step
+https://forum.dji.com/thread-196332-1-1.html   How to install Google play to DJI Smart Controller
+https://www.youtube.com/watch?v=k3HDK-ahkaM    Quick Tip: How to Install Apps to DJI Smart Controller
+https://www.youtube.com/watch?v=cojtb-DLcR8    Detailed Guide to Installing Apps on the DJI Smart Controller
+https://mavicpilots.com/threads/smart-controller-and-google-play.57600/     Smart Controller and Google Play
+
+https://community.pix4d.com/t/new-dji-smart-controller/7862/79      New DJI Smart Controller
+https://forum.dji.com/forum.php?mod=viewthread&tid=194916           Smart controller with Mavic 2 Pro.
+google "pix4dcapture on smart controller"
+https://forum.dji.com/forum.php?mod=viewthread&tid=195897           Smart Controller and DroneDeploy
+https://forum.dronedeploy.com/t/new-dji-smart-controller-and-dp/12040/10    New DJI smart controller and DP?
+google "dronedeploy on smart controller"
