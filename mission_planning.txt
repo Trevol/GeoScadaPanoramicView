@@ -14,6 +14,9 @@ https://ardupilot.org/planner/
 https://www.dronecode.org/
 https://www.dronecode.org/sdk/
 https://mavlink.io/
+https://mavlink.io/en/
+https://github.com/diux-dev/rosettadrone
+google "Rosetta Drone"
 qgroundcontrol.com
 https://auterion.com/
 px4.io
@@ -22,3 +25,11 @@ https://pixhawk.org/
 https://auterion.com/the-history-of-pixhawk/
 https://github.com/nik012003/OpenGS
 https://github.com/HobbySingh/Vision-Based-Fixed-Wing-Landing
+
+!!!
+https://ardupilot.org/copter/docs/common-camera-control-board.html
+https://ardupilot.org/copter/index.html
+!!!
+https://www.dronecode.org/sony-electronics-joins-dronecode-to-broaden-industrial-camera-integration/
+!!!
+https://ardupilot.org/copter/docs/common-cameras-and-gimbals.html
