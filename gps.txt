@@ -7,3 +7,14 @@ google "gps rtk 2"
 https://www.sparkfun.com/products/15136   SparkFun GPS-RTK2 Board - ZED-F9P (Qwiic)
 https://learn.sparkfun.com/tutorials/gps-rtk2-hookup-guide/all   GPS-RTK2 Hookup Guide
 https://www.sparkfun.com/products/15192   GNSS Multi-Band Magnetic Mount Antenna - 5m (SMA)
+
+
+https://ru.wikipedia.org/wiki/Спутниковая_система_навигации
+https://en.wikipedia.org/wiki/Satellite_navigation
+https://ru.wikipedia.org/wiki/Real_Time_Kinematic
+https://ru.wikipedia.org/wiki/Differential_GPS
+
+
+http://rtknet.ru/
+https://geodetika.ru/site/bazovye-stantsii/
+https://geodetika.ru/product/south-galaxy-g6/
