@@ -1,3 +1,55 @@
 https://kopterinfo.ru/obzory-kvadrokopterov/kvadrokopter-mikrokopter-quadro-xl.html  Обзор профессионального квадрокоптера MikroKopter Quadro XL
 google "Mikrokopter QUADRO XL"
 https://www.ugcs.com/supported_drones_autopilots#micropilot-helicopter-ground-station-software
+
+
+https://www.uavfactory.com/product/74
+
+!!!
+https://www.mydronelab.com/
+
+
+!!!
+https://www.dronecode.org/
+https://github.com/PX4/Firmware
+https://docs.px4.io/v1.9.0/en/frames_multicopter/dji_flamewheel_450.html
+https://docs.px4.io/v1.9.0/en/advanced_features/rtk-gps.html
+
+
+
+https://www.youtube.com/watch?v=nsQYg6iLNUc  Pixhawk - optical flow position control (Small demo of a PX4 autopilot using a PXFlow module (optical flow) for position control)
+https://www.youtube.com/watch?v=pV8zmT8skPk  PX4Flow Test Flight  Installed APM Copter 3.3 beta firmware to Pixhawk, use PX4Flow testing Optical Flow LOITER function.
+http://bellergy.com/px4flow-project-restart/
+
+
+google "Here+ RTK GPS"
+http://www.proficnc.com/system-kits/77-gps-module.html
+https://ardupilot.org/copter/docs/common-here-plus-gps.html
+
+!!!  PixhawkTeam
+https://www.youtube.com/user/PixhawkTeam/videos
+https://www.youtube.com/watch?v=zy-BiNiVw0E   PIXHAWK: Vision-Based Autonomous Mapping and Exploration Using a Quadrotor MAV
+https://www.youtube.com/watch?v=0Jpq6DU_HVg   PX4FLOW Autonomous Flight with PX4FMU
+
+!!!!
+https://www.youtube.com/channel/UCkrtSvera-xusjMtgMUe-HA   PX4 Autopilot - Open Source Flight Control.
+https://www.youtube.com/watch?v=CxIsJWtVaTA   Vision and offboard control interfaces - Martina Rivizzigno - PX4 Developer Summit 2019
+https://www.youtube.com/watch?v=tGF24r1PTRs  Gazebo Optical Flow Simulation for PX4
+
+
+
+google "Lidar-Lite V3"
+
+
+http://gazebosim.org/   Robot simulation made easy.
+http://gazebosim.org/tutorials?cat=install
+
+
+
+https://nuttx.apache.org/    Apache NuttX is a mature, real-time embedded operating system (RTOS).
+
+
+
+https://docs.px4.io/master/en/flight_controller/cuav_v5_nano.html
+https://docs.px4.io/master/en/airframes/airframe_reference.html
+https://docs.px4.io/master/en/sensor/rangefinders.html

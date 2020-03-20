@@ -18,3 +18,22 @@ https://ru.wikipedia.org/wiki/Differential_GPS
 http://rtknet.ru/
 https://geodetika.ru/site/bazovye-stantsii/
 https://geodetika.ru/product/south-galaxy-g6/
+
+
+google "usb gps-receiver high-accuracy"
+https://eos-gnss.com/product/key-features
+https://eos-gnss.com/product/arrow-series/arrow-gold/   Arrow Gold RTK GNSS
+https://gpswebshop.com/collections/usb-gps/products/gnss100l-high-sensitivity-usb-gnss-receiver-72-channels-tri-system-gps-glonass-galileo-ip67-waterproof
+https://gpswebshop.com/collections/usb-gps/products/gnss200l-industrial-high-sensitivity-usb-gnss-receiver-72-channels-gps-glonass-galileo-tri-system-ip67-waterproof
+http://www.canadagps.com/ColumbusV800plus.html   Columbus V-800+ GPS Data Logger (32Mb Memory, 248,000 Waypoints)
+http://www.canadagps.com/ColumbusV800.html  Columbus V-800 high speed high accuracy usb GPS receiver (66 channels MTK II, 5hz)
+
+https://shop.zubax.com/products/zubax-gnss-2
+https://zubax.com/products/gnss_2
+
+
+!!!!!
+https://www.novatel.com/products/
+
+
+https://zubax.com/products/gnss_2  GNSS 2 High-performance board-level positioning module with compass and barometric altimeter for robots and unmanned vehicles.
