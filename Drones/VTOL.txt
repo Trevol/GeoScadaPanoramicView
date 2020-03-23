@@ -6,3 +6,12 @@ https://www.youtube.com/watch?v=67TkZOq8kbI    Pixhawk VTOL
 
 https://docs.px4.io/v1.9.0/en/config_vtol/vtol_quad_configuration.html  QuadPlane VTOL Configuration & Tuning
 https://docs.px4.io/v1.9.0/en/frames_vtol/     VTOL Airframes
+
+
+https://www.youtube.com/watch?v=fNmQpkPnO_w   Thresher-03 Vtol Fixed Wing Uav - Installation Video Guide
+https://www.youtube.com/watch?v=-V1Rs0CJVp8   Thresher-03 Vtol Gasoline Fixed Wing Uav For Mapping & Surveillance
+
+
+
+https://www.technosysind.com
+https://www.youtube.com/user/dhruv1981/videos
