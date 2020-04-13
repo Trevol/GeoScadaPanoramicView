@@ -1,1 +1,2 @@
 https://geospb.ru/blog/articles/instrukciya-po-aerofotosemochnym-rabotam-afs-s-pomosshyu-bpla-dji-phantom-4-geobox-rtkppk
+https://uav-guidelines.openaerialmap.org/
